@@ -1,2 +1,8 @@
-# kobuki-project
-This is the code that was used by me and my team during a onboarding project for Univeristy of Glasgow driverless team
+# HOLY FUCK THIS IS FUCKING AWFULLLLLLLLL
+
+This is wayyyyy worse than i ever thought possible
+
+Also the data structs are only for local use so no need for .msg definition.... and i just cant be asked
+
+
+## Probably gonna update this with how it works but hey
